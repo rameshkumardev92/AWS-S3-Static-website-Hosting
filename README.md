@@ -22,5 +22,5 @@ This Project Demonstrates hosting a static websiste using AWS S3 with proper IAM
 
 ## Learing Outcome 
 - Hands-on experience in S3 storage management
--- Undeerstanding IAM access control
--- CloudWatch monitoring setup
+- Undeerstanding IAM access control
+- CloudWatch monitoring setup
